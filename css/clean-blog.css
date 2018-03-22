@@ -15,17 +15,18 @@ p a {
 
 h1,
 h2 {
+  font-size: 37px;
   font-weight: 800;
-  font-family: Helvetica, 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: Calibri, 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 h3,
 h4,
 h5,
 h6 {
-  font-size: 25px;
-  font-weight: 600;
-  font-family: Helvetica, 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 28px;
+  font-weight: 650;
+  font-family: Calibri, 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 a {
