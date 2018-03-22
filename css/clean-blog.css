@@ -47,6 +47,12 @@ blockquote {
   font-size: 36px;
   font-weight: 700;
   margin-top: 60px;
+}.
+
+section-heading2 {
+  font-size: 25px;
+  font-weight: 300;
+  margin-top: 60px;
 }
 
 .caption {
@@ -55,7 +61,7 @@ blockquote {
   display: block;
   margin: 0;
   padding: 10px;
-  text-align: center;
+  text-align: left;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
 }
